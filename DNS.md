@@ -1,6 +1,3 @@
-Sure, Praveen! Here's a **detailed and easy-to-understand explanation** for each DNS-related question you listed, with real-time examples so you can remember them better:
-
----
 
 ### 1️⃣ **What is DNS and why is it important?**
 
